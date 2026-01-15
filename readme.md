@@ -1,4 +1,4 @@
-# Hi, I'm Zach Wilson! Welcome to my GitHub! 👋
+# Hi, I'm Jana! Welcome to my GitHub! 👋
 
 As a **Lecturer of Computer Science at Oakland City University**, I lead the Computer Science, Cybersecurity, and Information Technology programs while teaching a diverse range of undergraduate and graduate courses. I am passionate about integrating current research and industry trends into my teaching, fostering inclusive learning environments, and preparing students for successful careers in technology.
 
