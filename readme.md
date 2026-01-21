@@ -1,206 +1,171 @@
-# Hi, I'm Jana! Welcome to my GitHub! 👋
 
-As a **Lecturer of Computer Science at Oakland City University**, I lead the Computer Science, Cybersecurity, and Information Technology programs while teaching a diverse range of undergraduate and graduate courses. I am passionate about integrating current research and industry trends into my teaching, fostering inclusive learning environments, and preparing students for successful careers in technology.
+## Hi, I'm Jana! Welcome to my GitHub! 👋
 
-Beyond the classroom, I serve as **Communications Committee Chair and Webmaster for IEEE Region 4**, where I lead regional communication strategy and maintain the digital presence for one of IEEE's largest geographic regions. I also founded **Wilson's Media LLC**, providing consulting services in IT, data analytics, and business operations.
+I am a **Computer Science undergraduate student** at Oakland City University with a minor in **Business Administration**. I am interested in building practical, well-structured solutions while developing skills relevant to **business technology, project coordination, and technology-driven decision making**. I enjoy learning how technical systems support business goals and how clear communication and collaboration contribute to successful outcomes.
 
-I am committed to advancing computer science education, contributing to academic discourse through peer review and publications, and bridging the gap between academia and industry practice.
-
-## 🎓 Education
-
-**EdD in Organizational Management** (In Progress, Expected May 2029)  
-Oakland City University
-
-**Master of Science in Information and Communication Sciences** (December 2025)  
-Ball State University
-
-**Master of Business Administration** (December 2024)  
-Ball State University
-
-**Bachelor of Science in Computer Science** (May 2023)  
-Indiana University–Purdue University Indianapolis
-
-My interdisciplinary background spanning computer science, business administration, information systems, and organizational management provides a unique perspective on technology's role in modern organizations and society.
-
-## 👨‍🏫 Teaching Experience
-
-### Oakland City University — Lecturer of Computer Science (August 2025 - Present)
-
-**Undergraduate Courses:**
-- CS 111/125: Programming for Everyone I & II
-- CS 200: Website Development
-- CS 211: Data Structures
-- CS 300/351: Application Development I & II
-- CS 315: Modern Technologies
-- CS 480: Senior Capstone
-- BUS 206: Management Information Systems
-
-**Graduate Courses:**
-- MBA 525: Information Systems
-
-**Leadership Responsibilities:**
-- Lead the Computer Science, Cybersecurity, and Information Technology programs
-- Oversee curriculum development, program assessment, and strategic planning
-- Manage departmental infrastructure including server administration and authentication systems
-- Advise students with majors or minors in CS, Cybersecurity, and IT
-
-### Ivy Tech Community College — Adjunct Faculty (January 2024 - Present)
-
-Teaching courses in Computing Logic, Advanced Simulation and Game Design, Software Development (Python & Java), Java Certification, and Web Application Development across Muncie and online campuses.
-
-### Ball State University — Graduate Teaching Assistant (August 2023 - December 2023)
-
-Supported Programming Fundamentals courses by grading assignments, providing detailed feedback, and offering personalized student support.
-
-## 💼 Professional Experience
-
-**IEEE Region 4** — Communications Committee Chair and Webmaster (December 2023 - Present)
-- Lead communication strategy for IEEE Region 4 with a team of 8 members
-- Maintain and update regional website ensuring strong online presence
-- Guide marketing and communication efforts with strategic project management
-
-**Wilson's Media LLC** — Founder and CEO (January 2016 - Present)
-- Provide strategic IT, data analytics, and business operations consulting
-- Design and deliver technical workshops and training sessions
-- Collaborate with Indiana colleges on curriculum development for web/software development programs
-- Mentor client teams on technology adoption and skill development
-
-**Cornerstone Environmental, Health and Safety** — Web Application Developer (May 2023 - October 2024)
-- Managed full web application lifecycle from requirements to deployment
-- Supervised and mentored junior developers and web designers
-- Developed responsive web applications using HTML, CSS, PHP, and JavaScript
-
-**NACURH, Inc.** — Chief Financial Officer and Chief Operations Officer (May 2023 - February 2024)
-- Managed financial assets totaling over one million dollars
-- Supervised eight regional Associate Directors across multiple regions
-- Implemented new affiliation process reducing processing time by 30%
-
-**Luddy School, IU Indianapolis** — Technical Support Specialist and Web Developer (August 2019 - September 2023)
-- Led development of fully-responsive websites and web applications
-- Implemented UDM automation for software deployment
-- Supervised junior technical support staff
-
-## ⚡ Technologies
-
-**Programming Languages:**
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
-**Frameworks & Libraries:**
-
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
-
-**Tools & Platforms:**
-
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white)
-![macOS](https://img.shields.io/badge/-macOS-000000?style=flat&logo=apple&logoColor=white)
-
-**Specializations:**
-
-![Data Analytics](https://img.shields.io/badge/-Data%20Analytics-FF6F00?style=flat&logo=googleanalytics&logoColor=white)
-![Web Development](https://img.shields.io/badge/-Web%20Development-4285F4?style=flat&logo=googlechrome&logoColor=white)
-![Cybersecurity](https://img.shields.io/badge/-Cybersecurity-00979D?style=flat&logo=security&logoColor=white)
-![Cloud Computing](https://img.shields.io/badge/-Cloud%20Computing-232F3E?style=flat&logo=amazonaws&logoColor=white)
-
-## 🔬 Academic Service & Research
-
-**Webmaster & Publicity Committee Member** — IEEE EIT 2026 Conference (September 2025 - Present)
-- Manage conference website and registration system
-- Configure and manage paper submission system and peer review workflows
-- Develop promotional strategies to increase conference visibility
-
-**Peer Reviewer** — Journal of Computer Science (Summer 2025 - Present)
-- Provide expert peer review for academic manuscripts in computer science and information systems
-- Evaluate research methodology, technical accuracy, and contributions to the field
-
-**Conference Paper Reviewer** — Midwest Educational Research Association (2024 Annual Meeting)
-- Conducted peer review of conference paper submissions
-- Assessed research quality and alignment with conference standards
-
-**Committee Member** — GLACUHO Student Learning Committee (January 2024 - December 2025)
-- Develop professional development opportunities for housing officers
-- Co-authored articles and co-presented programs on student leadership and AI in Residence Life
-
-## 📊 Recent Projects
-
-**Internal Audit Data Analytics Program** — Ball State University (April 2024 - May 2025)
-- Implemented comprehensive data warehouse for internal audit activities
-- Developed data analytics program using advanced SQL and programming
-- Improved risk assessment and streamlined audit processes
-
-**K-12 Cybersecurity Awareness Program** — Clark County School District (January 2024 - May 2024)
-- Led development of comprehensive K-12 cybersecurity awareness training program
-- Researched best practices and developed age-appropriate training materials
-- Created multi-faceted implementation plan with stakeholder engagement strategy
-
-## 📝 Publications & Presentations
-
-**2024:**
-- *Advising Student Organizations: A Comprehensive Guide* (GLACUHO 2024 Annual Conference - Presentation)
-- *AI in Residence Life* (GLACUHO 2024 Annual Conference - Presentation)
-- *Student Leadership Advising Guide* (GLACUHO Trends Magazine, Fall 2024)
-- *The Requirement for AI Regulation: Safeguarding Society's Future* (IEEE Region 4 Newsletter, Vol. 2024 Issue 2)
-- *Use of AI in Higher Education and Residence Life* (GLACUHO Trends Magazine, Spring 2024)
-
-## 🤝 Connect With Me
-
-I'm always happy to connect with students, fellow educators, researchers, and professionals in the tech community!
-
-[![Email](https://img.shields.io/badge/-University%20Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:zwilson@oak.edu)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/zawils)
-[![IEEE](https://img.shields.io/badge/-IEEE-00629B?style=flat&logo=ieee&logoColor=white)](https://ieee.org)
-
-**Office Hours:** Check course syllabus or Canvas for current schedule  
-**Institutional Email:** zwilson@oak.edu
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zachwilson-ocu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zachwilson-ocu&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zachwilson-ocu&theme=tokyonight&hide_border=true)
-
-## 💡 Teaching Philosophy
-
-I believe in creating inclusive, engaging learning environments where students are empowered to take intellectual risks, develop problem-solving skills, and cultivate a growth mindset. Technology evolves rapidly, but the fundamentals of critical thinking, ethical reasoning, and continuous learning remain timeless. My interdisciplinary background allows me to help students understand not just how technology works, but how it shapes and is shaped by organizational and societal contexts.
-
-## 🌟 For My Students
-
-**Looking for course materials?** Check the pinned repositories below or visit our course Canvas page.
-
-**Need help?** Don't hesitate to reach out during office hours or via email. Remember: asking questions is a sign of engagement and intellectual curiosity!
-
-**Want to collaborate?** I welcome student contributions to course materials, research projects, and educational resources. Let's work together to advance computer science education!
-
-## 🎯 Current Focus
-
-- Leading Computer Science, Cybersecurity, and IT programs at Oakland City University
-- Conducting research on AI applications in higher education
-- Developing innovative curriculum materials for programming and web development courses
-- Contributing to IEEE technical community and educational initiatives
-- Pursuing doctoral research in organizational management and technology leadership
+I am self-motivated, detail-oriented, and committed to writing clean, efficient code while continuously improving my technical and professional skills.
 
 ---
 
-<p align="center">
-  <i>Committed to excellence in computer science education | IEEE Senior Member | Lifelong learner | Bridging academia and industry</i>
-</p>
+## 🎓 Education
+
+I am currently pursuing a **Bachelor of Science in Computer Science** at **Oakland City University**, with a minor in **Business Administration**. I am a junior and expect to graduate in **2027**.
+
+I completed the **first two years of my undergraduate education** at **William Carey University**, where my studies were more focused on **business-related coursework**, helping me develop strong communication, organizational, and analytical skills.
+
+After transferring to **Oakland City University**, I shifted my primary focus to **Computer Science**, where I strengthened my programming, problem-solving, and technical skills. This combined background supports my long-term goal of pursuing a **Master’s degree in Business** while working at the intersection of technology and people.
+
+---
+
+## 💻 Technologies
+
+### **Programming Languages**
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat\&logo=python\&logoColor=white)
+
+### **Frameworks & Libraries**
+
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat\&logo=django\&logoColor=white)
+
+### **Tools & Platforms**
+
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat\&logo=visual-studio-code\&logoColor=white)
+![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat\&logo=pycharm\&logoColor=white)
+
+### **Databases**
+
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat\&logo=mysql\&logoColor=white)
+
+### **Other Skills**
+
+* Backend development
+* Basic API development
+* Version control with Git
+* Problem-solving and debugging
+
+---
+
+## 👩‍💼 Experience & Roles
+
+* **Resident Assistant (RA)** – Oakland City University
+  Supporting students, promoting a positive residential environment, and assisting with campus activities.
+
+* **Library Assistant** – Oakland City University
+  Assisting students and staff, managing resources, and maintaining an organized academic environment.
+
+* **2nd Grade Instructor** – Acorn Academy
+  Teaching and mentoring young students, developing lesson plans, and strengthening communication and leadership skills.
+
+---
+
+## 🌍 Languages
+
+* **English** – Fluent
+* **Serbian** – Native
+
+---
+
+## 📌 Projects & Public Work
+
+This section will be updated with links to my public projects and presentations:
+
+* ### Data Structures Projects
+
+* **Binary Search Implementation**
+  [https://github.com/FA25-CS211-JanaJaksic/CS211-BinarySearch-JJ](https://github.com/FA25-CS211-JanaJaksic/CS211-BinarySearch-JJ)
+
+* **CS211 Final Project**
+  [https://github.com/FA25-CS211-JanaJaksic/CS211-Final-JJ](https://github.com/FA25-CS211-JanaJaksic/CS211-Final-JJ)
+
+* **Lab 10 – Data Structures**
+  [https://github.com/jaksicjana-ocu/CS211-M10-Lab10-JJ/blob/main/main.py](https://github.com/jaksicjana-ocu/CS211-M10-Lab10-JJ/blob/main/main.py)
+
+* **Module 04 Assignment**
+  [https://github.com/FA25-CS211-JanaJaksic/CS211-MO4-Assignment/blob/main/main.py](https://github.com/FA25-CS211-JanaJaksic/CS211-MO4-Assignment/blob/main/main.py)
+
+### Programming Projects
+
+* **Number Guesser Program**
+  [https://github.com/FA25-CS111-JanaJaksic/CS111-Programming-Assignment-Numebr-Guesser](https://github.com/FA25-CS111-JanaJaksic/CS111-Programming-Assignment-Numebr-Guesser)
+
+* **CS111 Final Project**
+  [https://github.com/FA25-CS111-JanaJaksic/CS111-FinalProject](https://github.com/FA25-CS111-JanaJaksic/CS111-FinalProject)
+
+* **Module 07 Assignment**
+  [https://github.com/FA25-CS111-JanaJaksic/CS111-M07-Assignment7](https://github.com/FA25-CS111-JanaJaksic/CS111-M07-Assignment7)
+
+* **Module 05 Assignment**
+  [https://github.com/FA25-CS111-JanaJaksic/CS111-MO5-Assignment-5](https://github.com/FA25-CS111-JanaJaksic/CS111-MO5-Assignment-5)
+
+---
+
+## 🤝 Connect With Me
+
+Feel free to connect with me or reach out:
+
+**+1 708 739 5291**
+
+Or contact me directly via email: **janajaksic2004@gmail.com**
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaksicjana-ocu\&show_icons=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jaksicjana-ocu\&layout=compact\&theme=tokyonight)
+
+---
+
+## 🎯 Career Goals
+
+I am interested in pursuing a career that combines **business and technology**, where I can apply my technical background while working closely with people. I am particularly drawn to roles that involve collaboration, communication, and elements of **public speaking or client-facing work**, such as business technology, project coordination, or technology-driven business roles.
+
+I am actively seeking a **summer internship** where I can gain hands-on experience, contribute to real-world projects, and continue developing both my technical and professional skills.
+
+---
+
+## 🛠️ How I Manage My GitHub Projects
+
+I use Git and GitHub for version control and collaboration. Below are the basic Git commands I commonly use to manage and update my repositories:
+
+```bash
+# Clone a repository
+git clone https://github.com/username/repository-name.git
+
+# Check the status of files
+git status
+
+# Add changes to staging
+git add .
+
+# Commit changes with a message
+git commit -m "Update README and project files"
+
+# Push changes to GitHub
+git push origin main
+```
+
+These commands help me keep my projects organized, track changes efficiently, and maintain clean version history.
+
+---
+
+⭐ *Thank you for visiting my GitHub profile!*
+
+
+---
+
+
+
+
+
+
+
+
+
+
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=zachwilson-ocu&color=blue&style=flat" alt="Profile Views">
