@@ -43,6 +43,8 @@ After transferring to **Oakland City University**, I shifted my primary focus to
 * Basic API development
 * Version control with Git
 * Problem-solving and debugging
+* Sales
+* Social Media Marketing
 
 ---
 
@@ -104,7 +106,7 @@ This section will be updated with links to my public projects and presentations:
 
 Feel free to connect with me or reach out:
 
-**+1 708 739 5291**
+**+1 812 304 1088**
 
 Or contact me directly via email: **janajaksic2004@gmail.com**
 
