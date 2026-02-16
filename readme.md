@@ -42,10 +42,12 @@ After transferring to **Oakland City University**, I shifted my primary focus to
 * Backend development
 * Web Development
 * Object-oriented Programming (OOP)
+* HTML
 * Version control with Git
 * Data Analysis
 * Sales
 * Social Media Marketing
+  
 
 ---
 
